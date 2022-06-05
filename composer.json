@@ -1,0 +1,6 @@
+{
+    "name": "domains/tank-finder",
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}
